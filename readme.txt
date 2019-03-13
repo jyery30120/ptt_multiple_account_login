@@ -5,4 +5,4 @@ passwords = ['userpassword_1','userpassword_2','userpassword_3'] ## change here
 上面帳號下面對應密碼 就可以用了
 也可以只打一組或多組帳號
 
-R：https://dotblogs.com.tw/ctosib/2016/12/05/152210
+Reference：https://dotblogs.com.tw/ctosib/2016/12/05/152210
