@@ -1,8 +1,8 @@
-§ï¤U­±³o¨â­Ó 
+æ”¹ä¸‹é¢é€™å…©å€‹ 
 users = ['username_1','username_2','username_3'] ## change here , can be only one or add more than 1
 passwords = ['userpassword_1','userpassword_2','userpassword_3'] ## change here
 
-¤W­±±b¸¹¤U­±¹ïÀ³±K½X ´N¥i¥H¥Î¤F
-¤]¥i¥H¥u¥´¤@²Õ©Î¦h²Õ±b¸¹
+ä¸Šé¢å¸³è™Ÿä¸‹é¢å°æ‡‰å¯†ç¢¼ å°±å¯ä»¥ç”¨äº†
+ä¹Ÿå¯ä»¥åªæ‰“ä¸€çµ„æˆ–å¤šçµ„å¸³è™Ÿ
 
-°Ñ¦Ò¡Ghttps://dotblogs.com.tw/ctosib/2016/12/05/152210
+åƒè€ƒç¶²ç«™ï¼šhttps://dotblogs.com.tw/ctosib/2016/12/05/152210
